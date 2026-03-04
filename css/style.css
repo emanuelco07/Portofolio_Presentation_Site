@@ -1,3 +1,4 @@
+/* START Header */
 #topHeader {
     border-bottom: 1px solid #ebebeb;
 }
@@ -17,3 +18,31 @@ nav ul li a {
     font-size: 1.1rem !important;
     font-weight: 600 !important;
 }
+/* END Header */
+
+/* START Footer */
+.full_footer {
+    background-color: #243c4f;
+}
+
+.top_footer p {
+    color: white;
+}
+
+.top_footer a {
+    color: white;
+    font-weight: 600;
+}
+
+.top_footer h3 {
+    color: white;
+}
+
+.bottom_footer {
+    background-color: #031b2e
+}
+
+.bottom_footer p {
+    color: white;
+}
+/* END Footer */
