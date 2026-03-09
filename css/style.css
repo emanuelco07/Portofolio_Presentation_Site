@@ -46,3 +46,15 @@ nav ul li a {
     color: white;
 }
 /* END Footer */
+
+/* START: Home page first hero section */
+.top_hero_section {
+    background-color: #3498db;
+    color: white;
+}
+
+.top_hero_section a {
+    color: white;
+    font-weight: 600;
+}
+/* END: Home page first hero section */
