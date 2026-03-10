@@ -58,3 +58,36 @@ nav ul li a {
     font-weight: 600;
 }
 /* END: Home page first hero section */
+
+/* START: Home page third hero section */
+.requierments_section {
+    background-color: #004d80;
+    color: white;
+}
+/* END: Home page third hero section */
+
+/* START: Home page fifth hero section */
+.home_newsletter {
+    background-color: #004d80;
+    color: white;
+}
+
+.home_newsletter .form-control {
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+.home_newsletter .btn {
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #de1290;
+    color: #fff;
+}
+/* END: Home page fifth hero section */
+
+/* START: Home page seventh hero section */
+.clients_section {
+    background-color: #f0f0f0;
+}
+/* END: Home page seventh hero section */
