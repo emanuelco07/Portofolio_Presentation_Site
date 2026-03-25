@@ -111,3 +111,19 @@ nav ul li a {
 }
 
 /* ------------------------------------- END of Contact Us Page ---------------------------------------- */
+
+/* ------------------------------------- START of Web Design Page ---------------------------------------- */
+
+.text-justify {
+  text-align: justify;
+}
+
+.bar {
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    border: 1px solid slategray;
+}
+
+/* ------------------------------------- END of Web Design Page ---------------------------------------- */
