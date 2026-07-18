@@ -4,8 +4,7 @@ A clean and responsive personal portfolio website showcasing projects, skills, a
 
 ## Demo
 
-<!-- Add a GIF preview of the site below. Example: -->
-<!-- ![Site preview](imgs/demo.gif) -->
+![Site preview](site_presentation.gif)
 
 ## Overview
 
